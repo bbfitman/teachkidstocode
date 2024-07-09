@@ -2,7 +2,7 @@
 import turtle   
 colors=['red', 'purple', 'blue',
         'green', 'yellow', 'orange']
-sides = 2 # this is a test line for github
+sides = 5 # this was modified by git web
 t=turtle.Pen()
 turtle.bgcolor('black')
 for x in range(360):
