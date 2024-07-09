@@ -2,7 +2,9 @@
 import turtle   
 colors=['red', 'purple', 'blue',
         'green', 'yellow', 'orange']
-sides = 8 # this is a test for conflict
+
+sides = 8 # this is a final test line 
+
 t=turtle.Pen()
 turtle.bgcolor('black')
 for x in range(360):
